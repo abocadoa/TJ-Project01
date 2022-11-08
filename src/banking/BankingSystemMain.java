@@ -16,6 +16,9 @@ public class BankingSystemMain {
 		System.out.print("선택:");
 	}
 	public static void main(String[] args) {
+		
+		System.out.println("1차프로젝트(학원)");
+		
 		Scanner sc=new Scanner(System.in);
 		AccountManager manager=new AccountManager();
 		while(true) {
