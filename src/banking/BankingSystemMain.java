@@ -18,7 +18,11 @@ public class BankingSystemMain {
 	public static void main(String[] args) {
 		
 		System.out.println("1차프로젝트(학원)");
+
+		System.out.println("클론 후 작업01");
 		System.out.println("pull없이 작업진행함");
+
+
 		
 		Scanner sc=new Scanner(System.in);
 		AccountManager manager=new AccountManager();
